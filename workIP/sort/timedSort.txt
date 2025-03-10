@@ -1,0 +1,11 @@
+Random 10000.txt
+./sort1 random10000.txt 0,37s user 0,02s system 98% cpu 0,394 total
+./sort2 random10000.txt 0,01s user 0,01s system 93% cpu 0,027 total
+./sort3 random10000.txt 0,16s user 0,02s system 98% cpu 0,184 total
+
+Random 50000.txt
+./sort1 random50000.txt 10,02s user 0,10s system 99% cpu 10,174 total
+./sort2 random50000.txt 0,05s user 0,08s system 76% cpu 0,169 total
+./sort3 random50000.txt 3,91s user 0,09s system 98% cpu 4,046 total
+
+Random 5000.txt
